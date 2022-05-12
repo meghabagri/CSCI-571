@@ -1,5 +1,4 @@
 # CSCI-571-SPRING-2022
-## By Professor Marco Papa
 ### Assignment videos for course assignments. ###
 - Assignment-3 Static web page with basic CSS styling.
 - Assignment-6 Static web application using Flask for back-end and HTML, CSS and JS for front-end development.
